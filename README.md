@@ -24,37 +24,6 @@ A responsive single-page web application built with React.js, inspired by platfo
 - 🔐 **Security Measures:**
   - Basic client-side protections (CSP, HTML encoding, React JSX safety)
 
-## 📁 Project Structure
-
-estate-agent-spa/
-├── public/
-├── src/
-│ ├── components/ # Reusable UI components
-│ │ ├── Footer.js
-│ │ ├── HomeHero.js
-│ │ ├── Navbar.js
-│ │ ├── custom.js
-│ │ └── styles.css
-│ │
-│ ├── data/
-│ │ └── properties.json # Contains all property data
-│ │
-│ ├── Pages/ # Page-level components
-│ │ ├── Home.js
-│ │ ├── Saveditems.js
-│ │ └── SearchPage.js
-│ │
-│ ├── property/ # Individual property detail components
-│ │ ├── Property1.js
-│ │ ├── Property2.js
-│ │ ├── ...
-│ │ └── Property7.js
-│ │
-│ ├── App.js # Main app router
-│ ├── App.css
-│ ├── App.test.js
-│ └── index.css
-
 ## 🚀 Getting Started
 
 Prerequisites

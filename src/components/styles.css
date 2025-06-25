@@ -1,0 +1,104 @@
+body {
+  background-color: rgba(240, 247, 255, 1);
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+.hero-section {
+  min-height: auto;
+  display: flex;
+}
+.hero-content h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+.hero-content p {
+  font-size: 1.2rem;
+  color: #555;
+}
+.hero-image img {
+  max-width: 100%;
+  height: auto;
+}
+
+.card-img-top {
+  padding-top: 0;
+  margin-top: 0;
+}
+
+.card {
+  margin-top: 0;
+  padding-top: 0;
+}
+/**/
+.footer-link {
+  color: #f8f9fa;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer-link:hover {
+  color: #0d6efd;
+}
+
+.social-icon {
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+  border-radius: 50%;
+  text-align: center;
+  color: #fff;
+  display: inline-block;
+  margin: 0 8px;
+  transition: all 0.3s ease;
+}
+
+.social-icon:hover {
+  transform: translateY(-3px);
+  color: #fff;
+}
+
+.custom-btn1 {
+  width: 100%; 
+  background-color: rgb(3, 43, 73); 
+  border-color: rgb(3, 43, 73); 
+}
+
+.custom-btn1:hover {
+  background-color: rgb(4, 50, 85); 
+  border-color: rgb(4, 50, 85); 
+}
+
+.saved-items, .search-results {
+  border-radius: 5px;
+  padding: 20px;
+  height: 100%;
+  overflow-y: auto;
+}
+
+.search-item {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  padding: 10px;
+}
+
+.search-item img {
+  max-width: 300px;
+  height: auto;
+  border-radius: 5px;
+}
+
+.btn-custom {
+  margin-right: 5px;
+}
+
+.map-container {
+  height: 400px;
+}
+
+.contact .info-item i {
+  font-size: 2rem; 
+}
+  

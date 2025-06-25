@@ -1,0 +1,115 @@
+{
+	"properties": [
+        {
+            "id":"prop1",
+			"type":"House",
+            "bedrooms":3,
+			"price":750000,
+			"tenure":"Freehold",
+			"description":"Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior...",
+			"location":"Petts Wood Road, Petts Wood, Orpington BR5",
+			"picture":"property1/p1.jpeg",
+			"url":"/property1",
+            "added": {
+                "month":"October",
+                "day":12,
+                "year":2022
+            }
+        },
+		{
+            "id":"prop2",
+			"type":"Flat",
+            "bedrooms":2,
+			"price":399995,
+			"tenure":"Freehold",
+			"description":"Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee...",
+			"location":"Crofton Road Orpington BR6",
+			"picture":"property2/p1.jpeg",
+			"url":"/property2",
+            "added": {
+                "month":"September",
+                "day":14,
+                "year":2022
+            }
+        },
+        {
+            "id":"prop3",
+			"type":"Flat",
+            "bedrooms":4,
+			"price":870000,
+			"tenure":"Freehold",
+            "description":"An exclusive development of high specification and luxury appointed detached family homes adjacent to open fields in a select development of just five highly individual homes. Penkridge is a thriving market village located in a highly regarded area of South Staffordshire. Local shops, restaurants and pubs are within easy reach, further complemented by traditional weekly food and antique markets which define this village community. Comprehensive amenities are easily accessible with Cannock, Wolverhampton and Stafford all within comfortable driving distance. Cannock town centre is renowned for its variety of shops, restaurants, bars and retail outlets with the recently established McArthur Glen Designer Outlet. This shoppers paradise is brimming with a mix of high street and international brands along with big name restaurants. ",
+			"location":"Plot 3 Aspect, Levedale Road, Penkridge ST19 5AT",
+			"picture":"property3/p1.jpeg",
+			"url":"/property3",
+            "added": {
+                "month":"September",
+                "day":11,
+                "year":2022
+            }
+        },
+        {
+            "id":"prop4",
+			"type":"House",
+            "bedrooms":2,
+			"price":950000,
+			"tenure":"Freehold",
+            "description":"We are excited to present this newly constructed semi-detached house, designed for modern living and convenience. This contemporary home features a spacious open-plan kitchen, living, and dining area that invites natural light through floor-to-ceiling windows, creating a bright and airy atmosphere. The kitchen is contemporary in style with a range of integrated appliances. Sliding doors open onto a generous rear garden, perfect for entertaining or relaxing outdoors. The ground floor is completed with a W.C. To the first floor there are two bedrooms, each with its own en-suite bathroom, providing both comfort and privacy.",
+			"location":"Ollerton Oaks Grove, Knutsford, WA16 BR5",
+			"picture":"property4/p1.jpeg",
+			"url":"/property4",
+            "added": {
+                "month":"January",
+                "day":10,
+                "year":2022
+            }
+        },
+        {
+            "id":"prop5",
+			"type":"Flat",
+            "bedrooms":4,
+			"price":640000,
+			"tenure":"Freehold",
+            "description":"Tawny Barns are situated at Huxley a rural hamlet which is equal distance from the thriving villages of Tarporley and Tattenhall both of which offer comprehensive facilities for everyday purposes as well as Doctors Surgeries and Chemists. State Primary Education is available in both these villages as well as at Huxley with Secondary Education at Tarporley, Christleton and Malpas subject to catchment. Private education is also available locally at Abbey Gate College, Saighton and in Chester at the Kings School or Queens School or alternatively at The Grange in Hartford. Tawny Barns are situated at Huxley a rural hamlet which is equal distance from the thriving villages of Tarporley and Tattenhall both of which offer comprehensive facilities for everyday purposes as well as Doctors Surgeries and Chemists. State Primary Education is available in both these villages as well as at Huxley with Secondary Education at Tarporley, Christleton and Malpas subject to catchment. Private education is also available locally at Abbey Gate College, Saighton and in Chester at the Kings School or Queens School or alternatively at The Grange in Hartford.",
+			"location":"Huxley, Nr. Tarporley BR2",
+			"picture":"property5/p1.jpeg",
+			"url":"/property5",
+            "added": {
+                "month":"November",
+                "day":28,
+                "year":2023
+            }
+        },
+        {
+            "id":"prop6",
+			"type":"House",
+            "bedrooms":5,
+			"price":960000,
+			"tenure":"Freehold",
+            "description":"Set in a beautifully landscaped plot of circa 0.40 acre on a delightful rural lane with open views to the rear, a spectacular modern home extending to 2604 square feet with double garage with gym over. It is a rare treat in estate agency to work with a developer who has solely dedicated themselves to an individual property, ensuring in the process a great attention to detail and carefully thought through decisions with reference to both specification and quality. The house itself oozes quality and has numerous high quality finishes and a funky contemporary interior, making this an eye catching home from the minute you walk through the door.",
+			"location":"Church Road, Aston Juxta Mondrum, Nantwich AB",
+			"picture":"property6/p1.jpeg",
+			"url":"/property6",
+            "added": {
+                "month":"February",
+                "day":2,
+                "year":2021
+            }
+        },
+        {
+            "id":"prop7",
+			"type":"House",
+            "bedrooms":3,
+			"price":369000,
+			"tenure":"Freehold",
+            "description":"The concept of the scheme is to replicate a fine and substantial period farmhouse and a cluster of traditional buildings in a courtyard grouping, converted to create an exclusive residential enclave. There will in fact be four brand new timber framed homes with striking traditional brick elevations, and a substantial L shaped conversion of a range of period brick and pantile buildings, which were in situ when the site was acquired. The plots are generous in scale particularly when compared to conventional estate planning and three of the units face on to open fields with genuinely spectacular views.",
+			"location":"Cherryholt Lane, East Bridgford NG22",
+			"picture":"property7/p1.jpeg",
+			"url":"/property7",
+            "added": {
+                "month":"May",
+                "day":8,
+                "year":2024
+            }
+        }
+]}

@@ -103,9 +103,3 @@ Instructor: Ebad Majeed
 ## 📜 License
 
 This project is for academic use only. Do not redistribute without permission.
-Let me know if:
-- You want to add a **live demo link** or **GIF/video demo**
-- You need help formatting or uploading the project files themselves
-- You want to localize this README into **another language** (e.g., Sinhala or Japanese)
-
-I'm happy to help further!

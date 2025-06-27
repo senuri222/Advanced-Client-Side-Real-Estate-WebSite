@@ -1,6 +1,6 @@
 # 🏡 Estate Agent Client-side Web Application
 
-A responsive single-page web application built with React.js, inspired by platforms like [rightmove.co.uk](https://www.rightmove.co.uk). This project allows users to search for properties using various filters and manage a favorites list—all without a backend server.
+A responsive advanced client side web application built with React.js, inspired by platforms like [rightmove.co.uk](https://www.rightmove.co.uk). This project allows users to search for properties using various filters and manage a favorites list—all without a backend server.
 
 ## 📌 Features
 
